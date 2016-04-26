@@ -1,0 +1,24 @@
+{
+  "name": "jay-nedb",
+  "version": "0.0.1",
+  "description": "A wrapper for nedb powered database.",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": ">= 1.0.0 < 2",
+    "file-type": ">= 3.8.0 < 4",
+    "multiparty": ">= 4.1.2 < 5",
+    "nedb": ">= 1.8.0 < 2",
+    "read-chunk": ">= 2.0.0 < 3",
+    "sanitize-html": ">= 1.11.4 < 2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jayjs/jay-nedb"
+  },
+  "author": "Martin Sookael",
+  "license": "MIT"
+}
