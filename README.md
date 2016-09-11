@@ -83,9 +83,9 @@ app.get('/api/j/query', function(req, res){
 });
 ```
 
-**advanced functionality with Parse.com**  
-Check out [Node-Jay](https://github.com/jayJs/node-jay) for advanced possibilities with Parse.com.  
-Notice: Parse.com is being sunsetted.      
+**BACKWARD COMPABILITY**    
+0.1.1 breaks 0.0.5 so much (change default database file type and location, remove support for objectId) that it ought to be 1.0.0. Nevertheless didn't feel as if a 1.0 product yet.  
+
 
 **Licence**  
 
