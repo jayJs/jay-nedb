@@ -1,6 +1,6 @@
 {
   "name": "jay-nedb",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A wrapper for nedb powered database.",
   "main": "index.js",
   "dependencies": {
